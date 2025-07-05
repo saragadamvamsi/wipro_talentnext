@@ -1,4 +1,4 @@
-package java_fundamentals;
+package javaFundamentals;
 
 public class Question6 {
 

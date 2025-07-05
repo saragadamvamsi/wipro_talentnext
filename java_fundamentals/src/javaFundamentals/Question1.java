@@ -1,4 +1,4 @@
-package java_fundamentals;
+package javaFundamentals;
 import java.util.*;
 
 public class Question1 {
